@@ -1,0 +1,9 @@
+
+# pycharm idea configs directory
+.idea/
+
+# MacOS finder file
+.DS_Store
+
+# virtual environment for python
+venv/
